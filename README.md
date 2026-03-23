@@ -5,7 +5,7 @@ Matricule:  **24G2758**
 Filiere:  **INFORMATIQUE**  
 
 ## Présentation du Projet
-Ce projet consiste en la conception et le développement d'une API blog destinée à la gestion d'un système de blog. Réalisé dans le cadre de l'unité d'enseignement **INF222-EC1**, ce service permet d'effectuer les opérations de création, lecture, mise à jour et suppression (CRUD) sur des ressources de type "Articles".
+Ce projet consiste en la conception et le développement d'une API backend destinée à la gestion d'un système de blog. Réalisé dans le cadre de l'unité d'enseignement **INF222-EC1**, ce service permet d'effectuer les opérations de création, lecture, mise à jour et suppression (CRUD) sur des ressources de type "Articles".
 
 ## Architecture Logicielle
 Pour répondre aux exigences de maintenabilité et de clarté du code, l'application adopte une architecture modulaire inspirée du modèle **MVC (Modèle-Vue-Contrôleur)** :
