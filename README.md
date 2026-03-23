@@ -60,7 +60,7 @@ Rechercher un article
 ### 7. Supprimer un article(DELETE)  
 `curl -X DELETE http://localhost:3000/api/articles/1`  
 # API Blog Allison  
-Bienvenue sur le projet **CleeRoute**, une API de gestion d'articles de blog développée avec **Node.js** et **Express**. Ce projet permet de gérer l'intégralité du cycle de vie des articles (CRUD) via une interface moderne et documentée.  
+Bienvenue sur le projet **API Blog Allison**, une API de gestion d'articles de blog développée avec **Node.js** et **Express**. Ce projet permet de gérer l'intégralité du cycle de vie des articles (CRUD) via une interface moderne et documentée.  
 ## Lancement  
 `http://localhost:3000/api-docs/`
 
